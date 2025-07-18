@@ -1,6 +1,6 @@
 # 📈 StockBot — Indian & Global Stock Chatbot + Local AI
 
-An interactive AI chatbot that gives **real-time stock data**, **intraday summaries**, and answers **financial questions** — all powered by Python, `yfinance`, and a **local LLM** like `phi3` or `tinyllama` using Ollama.
+An interactive AI chatbot that gives **real-time stock data**, **intraday summaries**, and answers **financial questions** — all powered by Python, `yfinance`, and a **local LLM** , `tinyllama` using Ollama.
 
 ## 🚀 Features
 
